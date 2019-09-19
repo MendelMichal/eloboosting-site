@@ -1,2 +1,2 @@
 # eloboosting-site
- EloBoosting Site - Project 2017 Year
+ EloBoosting Site with DotPay Integration - Project 2017 Year
